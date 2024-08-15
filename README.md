@@ -11,13 +11,17 @@ Este projeto é uma plataforma web desenvolvida para auxiliar professores e alun
 - Destaca as matérias em que os alunos têm maior e menor desempenho.
 
 ## Tecnologias Utilizadas
-- **Frontend:** HTML, CSS, JavaScript.
+- **Frontend:** HTML, CSS, JavaScript, e tailwind.
 - **Backend:** Node.js, Express.
-- **Banco de Dados:** MongoDB (ou o que você estiver usando).
-- **Análise de Dados:** Bibliotecas como Chart.js ou D3.js.
+- **Banco de Dados:** Postgress.
+- **Análise de Dados:** Bibliotecas a decidir.
 
 ## Como Instalar e Rodar o Projeto
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+2. Instale as dependências:
+    ```bash
+    npm install
